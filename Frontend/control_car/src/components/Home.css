@@ -1,0 +1,27 @@
+.home-container {
+    margin-top: 80px;
+    text-align: center;
+  }
+  
+  .options {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .options button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f0f0f0;
+    width: 18%;
+  }
+  
+  .options button:hover {
+    background-color: #f21111;
+    color: white;
+  }
+  

@@ -1,0 +1,22 @@
+#video-container{
+    margin-top: 40px;
+}
+.gesture-back{
+    margin-top: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #d0c8c8;
+    height: 50px;
+}
+
+.gesture-back:hover{
+    background-color: black;
+    color: white;
+}
+/* GestureControl.css */
+#video-feed {
+    transform: scaleX(-1);
+  }
+  
